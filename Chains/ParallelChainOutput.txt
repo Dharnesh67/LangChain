@@ -1,0 +1,34 @@
+## Data Science & Machine Learning: Notes and Quiz
+
+**Data Science:**
+
+* **Goal:** Extract knowledge and insights from data.
+* **Methods:** Data collection, cleaning, exploration, analysis, visualization, modeling.
+* **Output:** Reports, dashboards, predictions, recommendations.
+* **Tools:** Python (Pandas, NumPy, Scikit-learn), R, SQL, Tableau, Power BI.
+
+**Machine Learning (ML):**
+
+* **Goal:** Enable computers to learn from data without explicit programming.
+* **Types:** Supervised (classification, regression), unsupervised (clustering, dimensionality reduction), reinforcement learning.
+* **Algorithms:** Decision trees, support vector machines (SVMs), neural networks, k-means.
+* **Output:** Predictive models, patterns, classifications.
+* **Relationship to DS:** ML is a core component of data science, providing the predictive modeling capabilities.
+
+**In short:** Data science is the broader field, using ML (and other techniques) to solve real-world problems using data.
+
+
+---
+
+**Data Science and Machine Learning Quiz**
+
+1.  Machine Learning algorithms are broadly categorized into three main types. Name two of them.  *(e.g., Supervised Learning, Unsupervised Learning)*
+2.  In Machine Learning, what does the term "overfitting" refer to?  *(A model that performs well on the training data but poorly on unseen data.)*
+3.  If you are building a model to predict a *continuous numerical value* (e.g., the price of a house), what type of Machine Learning task is this typically called?  *(Regression)*
+4.  In supervised machine learning, what are the two main types of data used for training a model?  *(Features/Independent Variables and Labels/Dependent Variable/Target Variable)*
+5.  Beyond just running Machine Learning algorithms, Data Science often involves several other key steps in a project lifecycle. Name one such step that typically comes *before* model training.  *(e.g., Data Cleaning, Data Exploration, Feature Engineering, Data Preprocessing)*
+
+
+---
+
+*(Note:  Answers in parentheses are provided for the quiz questions.  These should be removed for actual quiz administration.)*
